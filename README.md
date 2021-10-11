@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm **Qonitha Prasetyowati**.\
+
+I'm a student graduate from **Sebelas Maret University** majoring in **Informatics Engineering**
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/qonitha-prasetyowati) account 
